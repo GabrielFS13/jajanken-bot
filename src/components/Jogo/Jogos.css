@@ -71,5 +71,24 @@
       width: 100%;
     }
   
+}
+
+@media (max-width: 600px){
+    .botoes, .placar{
+      width: 550px;
+    }
+    .jogo .escolhas{
+      width: 550px;
+    }
   
-  }
+}
+
+@media (max-width: 500px){
+    .botoes, .placar{
+      width: 400px;
+    }
+    .jogo .escolhas{
+      width: 400px;
+    }
+  
+}
