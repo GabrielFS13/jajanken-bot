@@ -8,9 +8,12 @@
 }
 
 body{
-  height: 100vh;
+  height: auto;
   color: var(--font);
   background-color: var(--bg);
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
 }
 
 .select-estilo select{
