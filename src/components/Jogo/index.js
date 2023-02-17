@@ -28,6 +28,21 @@ const Jogos = () =>{
             "tesoura": "/img/minecraft/tesoura.png",
             "pedra": "/img/minecraft/pedra.png",
             "papel": "/img/minecraft/papel.png"
+        },{
+            "estilo": "Gon (Hunter X Hunter)",
+            "tesoura": "/img/gon/tesoura.png",
+            "pedra": "/img/gon/pedra.png",
+            "papel": "/img/gon/papel.png"
+        },{
+            "estilo": "Fortnite",
+            "tesoura": "/img/fortnite/tesoura.png",
+            "pedra": "/img/fortnite/pedra.png",
+            "papel": "/img/fortnite/papel.png"
+        },{
+            "estilo": "Real",
+            "tesoura": "/img/real/tesoura.png",
+            "pedra": "/img/real/pedra.png",
+            "papel": "/img/real/papel.png"
         }
     ]
 
