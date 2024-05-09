@@ -4,7 +4,7 @@
   <img src="https://img.shields.io/badge/Language-Javascript-yellow" />
   <img src="https://img.shields.io/badge/HTML-5-orange" />
   <img src="https://img.shields.io/badge/CSS-3-brightgreen" />
-  <img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/React-17.0.2-blue" />
 </p>
 
 ## Sobre o Projeto
